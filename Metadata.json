@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 1229,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-azure-site-2-site-vpn-remote-ip-address/master/Update-AzureS2SVPNEndpoint.ps1",
+    "DownloadCount": 1219,
+    "Id": "Update-Azure-2-VPN-Remote-765c12f2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 442,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-8-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Update Azure Site 2 Site VPN Remote IP AddressThis Script will Download the current Virtual Network Configuration from Azure.(You must first have connected to your Azure Subscription).Then it will look up your current Gateway IP Address and detect if there has been any change com",
+    "Title": "Update Azure Site 2 Site VPN Remote IP Address",
+    "UpdatedDate": "2017-2-27T00:00:00",
+    "Url": "https://github.com/azureautomation/update-azure-site-2-site-vpn-remote-ip-address",
+    "UserTags": "Azure, Microsoft Azure, azure s2s"
+}
